@@ -10,6 +10,10 @@ After you activate the environmets install the <strong>requirements.txt</strong>
 <p align="center">
   <strong>pip install -r requirements.txt</strong>
 </p>
+After you train the model you can run the app by writing the command:
+<p align="center">
+  <strong>streamlit run app.py</strong>
+</p>
 
 ## Data
 Every record in this dataset represents a text extracted from a tweet, paired with an associated tag that indicates the primary emotion expressed. The dataset categorizes emotions into six distinct groups: sadness (0), joy (1), love (2), anger (3), fear (4), and surprise (5). The following picture depicts the ratio of each class.
