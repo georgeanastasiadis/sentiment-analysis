@@ -6,7 +6,7 @@ To be able to execute the following notebooks and py files first create an envir
 <p align="center">                              
   <strong>conda create -n envname python=3.1</strong>
 </p>
-After you activate the environmets install the **requirements.txt** using the following command:
+After you activate the environmets install the <strong>requirements.txt</strong> using the following command:
 <p align="center">
   <strong>pip install -r requirements.txt</strong>
 </p>
