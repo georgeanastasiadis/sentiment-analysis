@@ -4,7 +4,7 @@ A deep learning project using bidirectional LSTMs to perform text sentiment anal
 ## Setup
 To be able to execute the following notebooks and py files first create an environment using anaconda prompt <br>
 <p align="center">                              
-  <strong>conda create -n envname python=3.1</strong>
+  <strong>conda create -n envname python=3.11</strong>
 </p>
 After you activate the environmets install the <strong>requirements.txt</strong> using the following command:
 <p align="center">
